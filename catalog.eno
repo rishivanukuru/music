@@ -1,31 +1,22 @@
 # catalog
 
-title: Sparsity
+title: music by rishi
 
 base_url: https://rishivanukuru.com/music
 
-home_image:
-description = Outside this door was a perfect garden
-file = Paper door.jpg
+# home_image:
+# description = Outside this door was a perfect garden
+# file = Paper door.jpg
 
 -- text
+Here are some songs I have made over the years. 
 
-Sparsity creates instrumental and atmospheric rock music built on raw guitar with layers of complexity in the form of synthetic sounds, unexpected chord progressions, odd time signatures, and soaring dynamics. These songs are best appreciated through headphones, in the dark, without interuption. Sparsity is a postrock rock project by Jeff Gostick. 
-
-* [Spotify](https://open.spotify.com/artist/45ThlYhN2azGf7mtPYQXaI?si=Oh5nXmdXRKiPJoVg0sP_3A)
-
-* [Mastodon](https://mastodon.social/@sparsitymusic)
-
-[← prev](https://faircamp.webr.ing/prev/sparsitymusic.com) |
-[faircamp webring](https://faircamp.webr.ing/) |
-[random](https://faircamp.webr.ing/rand) | 
-[next →](https://faircamp.webr.ing/next/sparsitymusic.com)
-
+These were previously hosted on [SoundCloud](https://soundcloud.com/rishivanukuru). This page is based on [Faircamp](https://simonrepp.com/faircamp/).
 -- text
 
 # artist
 
-name: Sparsity
+name: Rishi Vanukuru
 
 # download
 
@@ -37,8 +28,8 @@ single_files: enabled
 
 # theme
 round_corners
-background_alpha: 23
-background_image: Building.jpg
+# background_alpha: 23
+# background_image: Building.jpg
 base: dark
 link_hue: 297
 link_saturation: 50
