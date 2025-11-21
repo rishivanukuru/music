@@ -4,9 +4,6 @@ title: music by rishi
 
 base_url: https://rishivanukuru.com/music
 
-copy_link: disabled
-feeds: disabled
-
 -- text
 Here are some songs I have made over the years. These were previously hosted on [SoundCloud](https://soundcloud.com/rishivanukuru). This page is based on [Faircamp](https://simonrepp.com/faircamp/).
 -- text
@@ -23,11 +20,8 @@ formats:
 
 single_files: enabled
 
-
-
 # theme
 round_corners
-base: dark
 link_hue: 360
 link_saturation: 100
 link_lightness: 76
