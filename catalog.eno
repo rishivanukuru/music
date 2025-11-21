@@ -20,6 +20,11 @@ formats:
 
 single_files: enabled
 
+copy_link: disabled
+
+
+feeds: disabled
+
 # theme
 round_corners
 base: dark
