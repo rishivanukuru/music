@@ -20,6 +20,8 @@ formats:
 
 single_files: enabled
 
+site_assets: custom.css
+
 # theme
 round_corners
 link_hue: 360

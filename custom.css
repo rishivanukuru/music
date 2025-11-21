@@ -1,0 +1,5 @@
+@media (min-width: 15rem) {
+    .release:nth-child(2n+1) { grid-column-start: 1 }
+    .release:nth-child(2n+2) { grid-column-start: 2 }
+    .releases { grid-auto-columns: 1fr; }
+}
