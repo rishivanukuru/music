@@ -48,7 +48,7 @@ jobs:
         id: pages
         uses: actions/configure-pages@v4
       - name: Build 
-        run: faircamp
+        run: faircamp --theming-widget
       - name: Upload artifact
         uses: actions/upload-pages-artifact@v3
         with:
