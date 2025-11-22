@@ -3,8 +3,12 @@ title: music by rishi
 base_url: https://rishivanukuru.com/music
 
 -- synopsis
-Here are some songs I have made over the years. These were previously hosted on [SoundCloud](https://soundcloud.com/rishivanukuru). This page is built using [Faircamp](https://simonrepp.com/faircamp/).
+Hello there.
 -- synopsis
+
+-- more
+Here are some songs I have made over the years. These were previously hosted on [SoundCloud](https://soundcloud.com/rishivanukuru). This page is built using [Faircamp](https://simonrepp.com/faircamp/).
+-- more
 
 
 artist:
@@ -22,11 +26,11 @@ site_assets: custom.css
 
 theme:
 round_corners = enabled
-accent_brightening = 85
-accent_chroma = 50
-accent_hue = 23
-base = light
-base_chroma = 34
-base_hue = 180
+accent_brightening = 61
+accent_chroma = 33
+accent_hue = 36
+background_alpha = 0
+base_chroma = 15
+dynamic_range = 33
 
 
