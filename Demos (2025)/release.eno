@@ -1,14 +1,19 @@
-# release
-
 title: Demos (2025)
 permalink: demos-2025
 date: 2025-11-22
-artist: Rishi Vanukuru
+release_artist: Rishi Vanukuru
+
+more_label: Liner Notes
+
+-- synopsis
+A part of another pact.
+-- synopsis
+
+-- more
+More information goes here.
+-- more
 
 cover:
-description = A template cover file.
+description = A template cover file
 file = cover.png
 
--- text
-A part of another pact.
--- text
